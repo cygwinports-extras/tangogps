@@ -1,0 +1,5 @@
+inherit gnome2
+
+DESCRIPTION="GTK+ mapping and GPS application"
+HOMEPAGE="http://www.tangogps.org/"
+SRC_URI="http://www.tangogps.org/downloads/${P}.tar.gz"
